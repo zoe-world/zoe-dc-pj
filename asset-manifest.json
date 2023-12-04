@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zoe-dc-pj/static/css/main.52b79a57.css",
+    "main.js": "/zoe-dc-pj/static/js/main.657c3ef8.js",
+    "static/media/Ubuntu-Regular.woff2": "/zoe-dc-pj/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
+    "static/media/UbuntuCondensed-Regular.woff2": "/zoe-dc-pj/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
+    "index.html": "/zoe-dc-pj/index.html",
+    "main.52b79a57.css.map": "/zoe-dc-pj/static/css/main.52b79a57.css.map",
+    "main.657c3ef8.js.map": "/zoe-dc-pj/static/js/main.657c3ef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b79a57.css",
+    "static/js/main.657c3ef8.js"
+  ]
+}
